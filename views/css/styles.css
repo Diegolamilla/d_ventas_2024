@@ -1,0 +1,107 @@
+
+#mt09_01{
+    transform: rotateX(-100);
+}
+#rueda{
+    width: 50px;
+    height: 50px;
+}
+
+#iconos{
+    margin-top: 15px;
+}
+#caru02{
+    padding: 200px 20px 0 0;
+
+}
+#caru03{
+    padding-top: 200px;
+}
+.ico01{
+    width: 120px;
+}
+#moto{
+    height: 260px;
+    display: flex;
+    justify-content: center;
+    background: black;
+}
+.carrusel{
+    margin-top: 200px;
+}
+#operaciones{
+    display: flex;
+    background-color: darkgoldenrod;
+    margin: 100px;
+}
+.operacion{
+    width: 400px;
+    height: 250px;
+    color: white;
+    opcion01{
+        background: blue;
+    }
+    opcion02{
+        background: red;
+    }
+    opcion03{
+        background: green;
+    }
+    opcion04{
+        background: yellow;
+    }
+} 
+.containerlogin{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+
+    .login-form{
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.loginInput{
+    height: 50px;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+}
+.login-container {
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.form-control {
+    border: 2px solid red;
+}
+.form-control:focus {
+    border-color: darkred;
+    box-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
+}
+.btn-custom {
+    background-color: white;
+    color: red;
+    border: 2px solid red;
+}
+.btn-custom:hover {
+    background-color: red;
+    color: white;
+    border: 2px solid white;
+}
+.register-link {
+    text-align: center;
+    margin-top: 10px;
+}
+.btn-container {
+    display: flex;
+    justify-content: center;
+}

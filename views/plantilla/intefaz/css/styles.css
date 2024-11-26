@@ -1,0 +1,28 @@
+
+#mt09_01{
+    transform: rotateX(-100);
+}
+#rueda{
+    width: 50px;
+    height: 50px;
+}
+
+#iconos{
+    margin-top: 15px;
+}
+#caru02{
+    padding: 200px 20px 0 0;
+
+}
+#caru03{
+    padding-top: 200px;
+}
+.ico01{
+    width: 120px;
+}
+#moto{
+    height: 260px;
+    display: flex;
+    justify-content: center;
+    background: black;
+}
